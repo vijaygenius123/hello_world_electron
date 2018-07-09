@@ -5,7 +5,8 @@
         "start": "electron ."
     },
     "dependencies": {
-        "electron": "^2.0.4"
+        "electron": "^2.0.4",
+        "jquery": "^3.3.1"
     },
     "devDependencies": {}
 }
